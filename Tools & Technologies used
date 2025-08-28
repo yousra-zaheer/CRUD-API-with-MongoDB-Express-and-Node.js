@@ -1,0 +1,21 @@
+Tools and technologies used in my CRUD API project:
+
+Backend
+1. Node.js: A JavaScript runtime environment for building server-side applications.
+2. Express.js: A popular Node.js framework for building web applications and APIs.
+
+Database
+1. MongoDB: A NoSQL database management system for storing and retrieving data.
+2. Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js.
+
+API Testing
+1. Postman: A popular tool for testing and debugging APIs.
+
+Deployment
+1. MongoDB Atlas: A cloud-based MongoDB database service for hosting and managing MongoDB databases.
+
+Development Tools
+1. JavaScript: The programming language used for building the backend application.
+2. npm (Node Package Manager): A package manager for installing and managing dependencies in Node.js projects.
+
+These are the tools & technologies used in my CRUD project
